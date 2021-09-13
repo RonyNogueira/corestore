@@ -1,6 +1,5 @@
-import React, { useEffect } from "react";
+import React from "react";
 import Slider from "react-slick";
-import star from "../../assets/img/Rating.png"
 import off from "../../assets/img/polygon.png"
 import { faWhatsapp  } from '@fortawesome/free-brands-svg-icons'
 import apiWhatsapp from "../../services/apiWhatsaap"
