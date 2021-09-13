@@ -4,21 +4,21 @@
         "img":"https://vinhosdesaoroque.com.br/image/cache/catalog/produtos/canguera/10152-600x600.jpg",
         "oldPrice":"129,99",
         "newPrice":"79,99",
-        "rating": "4.5"
+        "rating":4.5
     },
     {
         "title":"Vinho Branco Niagara ",
         "img":"https://vinhosdesaoroque.com.br/image/cache/catalog/produtos/canguera/10144-600x600.jpg",
         "oldPrice":"179,00",
         "newPrice":"149,00",
-        "rating": "5"
+        "rating": 5
     },
     {
         "title":"Vinho Tinto Seco Isabel",
         "img":"https://vinhosdesaoroque.com.br/image/cache/catalog/produtos/canguera/10146-600x600.jpg",
         "oldPrice":"159,90",
         "newPrice":"129,00",
-        "rating": "4"
+        "rating": 4
 
     },
     {
@@ -26,20 +26,20 @@
         "img":"https://vinhosdesaoroque.com.br/image/cache/catalog/produtos/canguera/10059-600x600.jpg",
         "oldPrice":"49,90",
         "newPrice":"39,00",
-        "rating": "3"
+        "rating": 3
     },
     {
         "title":"Vinho Brut Rose",
         "img":"https://vinhosdesaoroque.com.br/image/cache/catalog/produtos/frank/10338-600x600.jpg",
         "oldPrice":"249,90",
         "newPrice":"219,00",
-        "rating": "5"
+        "rating": 5
     },
     {
         "title":"Vinho Branco Niagara ",
         "img":"https://vinhosdesaoroque.com.br/image/cache/catalog/produtos/canguera/10144-600x600.jpg",
         "oldPrice":"175,00",
         "newPrice":"159,00",
-        "rating": "4.5"
+        "rating": 4.5
     }
 ]
